@@ -1,1 +1,1 @@
-"# Horizontal-RecyclerView" 
+# Horizontal-RecyclerView
